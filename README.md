@@ -8,7 +8,7 @@ El primero es un **api rest de personas** 🧑🏽 que se conecta contra una bas
 
 El segundo es un **api rest de documentos** 📋 que se conecta a una base de datos nosql en **Mongo Db Atlas** 🦖. 
 
-Como tercer servicio, tenemos un **servidor Eureka** 🌐 que registra ambos microservicios para que se comuniquen entre ellos.
+Como tercer servicio, tenemos un **servidor Eureka** 🌐 que registra ambos microservicios para que se comuniquen entre ellos mediante el uso de feign.
 
 El documento de mongo obtendrá una _lista de personas_, las cuales extraerá del servicio de mysql.
 
