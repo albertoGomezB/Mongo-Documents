@@ -9,7 +9,7 @@ El segundo es el de **documentos**, 📋 que se conecta contra una base de datos
 
 Como tercer servicio, tenemos un **servidor Eureka** 🌐, el cual centraliza los diferentes servicios en un único lugar, y los registra.
 
-Mediante este sistema, se podrán crear documentos con las personas correspondientes.
+Mediante este sistema, se podrán crear documentos con las personas correspondientes, obteniendo estos desde diferentes bases de datos.
 
 
   ## Tecnologías Utilizadas ☕
